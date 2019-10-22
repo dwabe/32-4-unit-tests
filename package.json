@@ -1,0 +1,27 @@
+{
+  "name": "32-4-unit-tests",
+  "version": "1.0.0",
+  "description": "unit tests training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwabe/32-4-unit-tests.git"
+  },
+  "keywords": [
+    "unit",
+    "test"
+  ],
+  "author": "bebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwabe/32-4-unit-tests/issues"
+  },
+  "homepage": "https://github.com/dwabe/32-4-unit-tests#readme",
+  "dependencies": {
+    "mocha": "^6.2.2",
+    "onchange": "^6.1.0"
+  }
+}
